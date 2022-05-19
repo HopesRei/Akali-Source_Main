@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="let´s go.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="action10000" x="0" y="0" width="498" height="781" frameX="0" frameY="0" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10001" x="498" y="0" width="498" height="780" frameX="-1" frameY="-1" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10002" x="996" y="0" width="497" height="779" frameX="-2" frameY="-2" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10003" x="1493" y="0" width="496" height="777" frameX="-3" frameY="-4" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10004" x="1989" y="0" width="489" height="771" frameX="-10" frameY="-10" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10005" x="2478" y="0" width="489" height="770" frameX="-11" frameY="-11" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10006" x="2967" y="0" width="481" height="763" frameX="-19" frameY="-18" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10007" x="3448" y="0" width="480" height="761" frameX="-20" frameY="-20" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10008" x="0" y="781" width="468" height="739" frameX="-32" frameY="-41" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10009" x="468" y="781" width="468" height="738" frameX="-33" frameY="-42" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10010" x="936" y="781" width="480" height="715" frameX="-21" frameY="-65" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10011" x="1416" y="781" width="479" height="714" frameX="-22" frameY="-66" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10012" x="1895" y="781" width="488" height="711" frameX="-13" frameY="-69" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10013" x="2383" y="781" width="488" height="710" frameX="-14" frameY="-70" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10014" x="2871" y="781" width="489" height="709" frameX="-13" frameY="-71" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10015" x="3360" y="781" width="488" height="708" frameX="-14" frameY="-72" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10016" x="0" y="1520" width="487" height="711" frameX="-15" frameY="-69" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10017" x="487" y="1520" width="487" height="710" frameX="-15" frameY="-70" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10018" x="974" y="1520" width="488" height="719" frameX="-14" frameY="-61" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10019" x="1462" y="1520" width="488" height="721" frameX="-14" frameY="-59" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10020" x="1950" y="1520" width="493" height="726" frameX="-9" frameY="-54" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10021" x="2443" y="1520" width="493" height="727" frameX="-8" frameY="-53" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10022" x="2936" y="1520" width="512" height="734" frameX="-4" frameY="-46" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10023" x="3448" y="1520" width="512" height="735" frameX="-3" frameY="-45" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10024" x="0" y="2255" width="520" height="741" frameX="0" frameY="-40" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10025" x="520" y="2255" width="520" height="742" frameX="0" frameY="-39" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10026" x="1040" y="2255" width="515" height="743" frameX="-4" frameY="-38" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10027" x="1555" y="2255" width="515" height="743" frameX="-3" frameY="-38" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10028" x="2070" y="2255" width="515" height="744" frameX="-5" frameY="-37" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10029" x="2585" y="2255" width="514" height="745" frameX="-5" frameY="-36" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10030" x="3099" y="2255" width="512" height="745" frameX="-6" frameY="-36" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10031" x="0" y="3000" width="512" height="746" frameX="-6" frameY="-35" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10032" x="512" y="3000" width="510" height="747" frameX="-7" frameY="-34" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10033" x="1022" y="3000" width="509" height="748" frameX="-7" frameY="-33" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10034" x="1531" y="3000" width="510" height="748" frameX="-6" frameY="-33" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10035" x="2041" y="3000" width="509" height="749" frameX="-6" frameY="-32" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10036" x="2550" y="3000" width="508" height="750" frameX="-6" frameY="-31" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10037" x="2550" y="3000" width="508" height="750" frameX="-6" frameY="-31" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10038" x="2550" y="3000" width="508" height="750" frameX="-6" frameY="-31" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10039" x="2550" y="3000" width="508" height="750" frameX="-6" frameY="-31" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10040" x="2550" y="3000" width="508" height="750" frameX="-6" frameY="-31" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10041" x="2550" y="3000" width="508" height="750" frameX="-6" frameY="-31" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10042" x="2550" y="3000" width="508" height="750" frameX="-6" frameY="-31" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10043" x="2550" y="3000" width="508" height="750" frameX="-6" frameY="-31" frameWidth="520" frameHeight="781"/>
+	<SubTexture name="action10044" x="2550" y="3000" width="508" height="750" frameX="-6" frameY="-31" frameWidth="520" frameHeight="781"/>
+</TextureAtlas>
